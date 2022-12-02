@@ -2,3 +2,8 @@ I added some in day2.txt on Local Repository
 
 
 Second time added some text in local Repository
+
+
+This text i added in Remote Repository 
+
+how Are you How can i help you.
