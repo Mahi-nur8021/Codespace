@@ -1,3 +1,7 @@
 day3 fiel is ite
 
+<<<<<<< HEAD
 how can i help you ?
+=======
+what is your name ??
+>>>>>>> 7fc1f1561be2358a7788846307c36bdbfe59f467
